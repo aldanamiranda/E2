@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(220, 245, 230);
+}
+
+.logo{
+    width: 15%;
+    height: 15%;
+}
+
+.navbar{
+background-color:rgb(175, 255, 208);     
+  display: flex;
+  justify-content:space-around;
+
+    
+}
+.right-navbar{
+   display: flex;
+    justify-content: space-around;
+    width: 60%;    
+}
+
+.navbar ul{
+    list-style-type: none;;
+    align-items: center;
+    }
+
+.right-navbar a{
+    text-decoration: none;
+    color: black;;
+   padding: 10px;
+}
+
